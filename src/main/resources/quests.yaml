@@ -1,0 +1,13 @@
+quests:
+  - id: "q1"
+    type: "collectItems"
+    description: "Collect 5 diamonds"
+    params:
+      item: "diamond"
+      target: 5
+  - id: "q2"
+    type: "killMobs"
+    description: "Kill 3 zombies"
+    params:
+      mob: "zombie"
+      target: 3
